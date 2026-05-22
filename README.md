@@ -99,6 +99,7 @@ int main() {
 ```
 ## OUTPUT
 
+<img width="616" height="412" alt="image" src="https://github.com/user-attachments/assets/28b93a29-8ca1-4d68-9686-056a9bbc6368" />
 
 # RESULT:
 The programs are executed successfully.
